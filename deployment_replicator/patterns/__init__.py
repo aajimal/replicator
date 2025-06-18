@@ -1,0 +1,1 @@
+"""Pattern detection modules for various deployment types"""
